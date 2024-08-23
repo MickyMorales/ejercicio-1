@@ -1,0 +1,47 @@
+.cabecera{
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 200;
+    text-align: right;
+    background-color: hsl(21, 14%, 77%);
+    padding: 50px;
+}
+.contenedor{
+    display: flex;
+}
+.título{
+    flex: 1;
+    color: rgb(0, 0, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40;
+    text-align: left;
+    background-color: rgb(120, 194, 236);
+    padding: 40px;
+}
+.portada{
+    flex: 1;
+    color: rgb(0, 0, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40;
+    text-align: center;
+    background-color: rgb(58, 241, 134);
+    padding: 40px;
+}
+.autor{
+    flex: 1;
+    color: rgb(167, 210, 10);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40;
+    text-align: right;
+    background-color: rgb(231, 219, 43);
+    padding: 80px;
+}
+.resumen{
+    flex: 2;
+    color: rgb(188, 223, 63);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40;
+    text-align: right;
+    background-color: rgb(219, 70, 224);
+    padding: 40px;
+}
